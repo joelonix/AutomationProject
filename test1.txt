@@ -3,6 +3,7 @@ hi
 
 My name is Hoel
 
+<<<<<<< HEAD
 My name is Hoel
 
 My name is Hoel
@@ -10,3 +11,6 @@ My name is Hoel
 public static void main
 
 My name is Hoel
+=======
+Christ Jesus 
+>>>>>>> TestJoel
